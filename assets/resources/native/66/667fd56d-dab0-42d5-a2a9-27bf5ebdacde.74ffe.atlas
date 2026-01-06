@@ -1,0 +1,306 @@
+
+mg_ganesha.png
+size: 1390,1109
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lion_b_ear_01
+  rotate: false
+  xy: 917, 1027
+  size: 83, 80
+  orig: 85, 82
+  offset: 1, 1
+  index: -1
+lion_b_eye_l01
+  rotate: false
+  xy: 21, 1087
+  size: 24, 20
+  orig: 26, 22
+  offset: 1, 2
+  index: -1
+lion_b_eye_l02
+  rotate: false
+  xy: 347, 1063
+  size: 68, 44
+  orig: 71, 46
+  offset: 1, 1
+  index: -1
+lion_b_eye_l03
+  rotate: false
+  xy: 186, 1079
+  size: 41, 28
+  orig: 45, 30
+  offset: 2, 1
+  index: -1
+lion_b_eye_r01
+  rotate: false
+  xy: 47, 1087
+  size: 21, 20
+  orig: 23, 23
+  offset: 1, 2
+  index: -1
+lion_b_eye_r02
+  rotate: false
+  xy: 305, 1068
+  size: 40, 39
+  orig: 43, 42
+  offset: 2, 2
+  index: -1
+lion_b_eye_r03
+  rotate: false
+  xy: 92, 1082
+  size: 27, 25
+  orig: 29, 26
+  offset: 1, 1
+  index: -1
+lion_b_face_01
+  rotate: true
+  xy: 1074, 387
+  size: 229, 310
+  orig: 232, 315
+  offset: 2, 2
+  index: -1
+lion_b_face_02
+  rotate: true
+  xy: 2, 94
+  size: 264, 362
+  orig: 272, 366
+  offset: 4, 2
+  index: -1
+lion_b_face_03
+  rotate: false
+  xy: 801, 245
+  size: 264, 301
+  orig: 272, 303
+  offset: 1, 1
+  index: -1
+lion_b_hair_01
+  rotate: true
+  xy: 366, 89
+  size: 269, 422
+  orig: 273, 493
+  offset: 2, 69
+  index: -1
+lion_b_hair_02
+  rotate: true
+  xy: 260, 770
+  size: 140, 414
+  orig: 141, 415
+  offset: 0, 0
+  index: -1
+lion_b_leg_01
+  rotate: true
+  xy: 1081, 618
+  size: 182, 299
+  orig: 183, 308
+  offset: 0, 1
+  index: -1
+lion_b_leg_02
+  rotate: true
+  xy: 2, 623
+  size: 145, 385
+  orig: 153, 386
+  offset: 7, 1
+  index: -1
+lion_b_leg_03
+  rotate: true
+  xy: 611, 548
+  size: 189, 461
+  orig: 191, 462
+  offset: 1, 0
+  index: -1
+lion_b_leg_04
+  rotate: true
+  xy: 2, 810
+  size: 130, 256
+  orig: 132, 258
+  offset: 1, 1
+  index: -1
+lion_b_leg_05
+  rotate: true
+  xy: 221, 360
+  size: 186, 578
+  orig: 188, 581
+  offset: 1, 1
+  index: -1
+lion_b_leg_06
+  rotate: true
+  xy: 676, 739
+  size: 143, 403
+  orig: 146, 404
+  offset: 1, 0
+  index: -1
+lion_b_leg_07
+  rotate: true
+  xy: 448, 912
+  size: 113, 544
+  orig: 115, 546
+  offset: 1, 1
+  index: -1
+lion_b_tail_01
+  rotate: false
+  xy: 615, 1037
+  size: 300, 70
+  orig: 300, 70
+  offset: 0, 0
+  index: -1
+lion_b_tail_02
+  rotate: true
+  xy: 389, 565
+  size: 203, 220
+  orig: 204, 220
+  offset: 0, 0
+  index: -1
+lion_s_body
+  rotate: false
+  xy: 1067, 2
+  size: 296, 383
+  orig: 301, 385
+  offset: 2, 1
+  index: -1
+lion_s_ear_l01
+  rotate: true
+  xy: 2, 973
+  size: 107, 121
+  orig: 124, 123
+  offset: 12, 1
+  index: -1
+lion_s_ear_r01
+  rotate: true
+  xy: 1002, 1026
+  size: 81, 124
+  orig: 84, 126
+  offset: 2, 1
+  index: -1
+lion_s_eye_l01
+  rotate: false
+  xy: 70, 1087
+  size: 20, 20
+  orig: 23, 22
+  offset: 1, 1
+  index: -1
+lion_s_eye_l02
+  rotate: false
+  xy: 417, 1063
+  size: 61, 44
+  orig: 64, 46
+  offset: 2, 1
+  index: -1
+lion_s_eye_l03
+  rotate: false
+  xy: 121, 1082
+  size: 31, 25
+  orig: 34, 26
+  offset: 1, 1
+  index: -1
+lion_s_eye_r01
+  rotate: false
+  xy: 2, 1090
+  size: 17, 17
+  orig: 19, 19
+  offset: 1, 2
+  index: -1
+lion_s_eye_r02
+  rotate: true
+  xy: 480, 1062
+  size: 45, 48
+  orig: 47, 50
+  offset: 1, 1
+  index: -1
+lion_s_eye_r03
+  rotate: false
+  xy: 154, 1082
+  size: 30, 25
+  orig: 32, 27
+  offset: 1, 2
+  index: -1
+lion_s_face_01
+  rotate: false
+  xy: 1198, 802
+  size: 190, 210
+  orig: 193, 212
+  offset: 1, 1
+  index: -1
+lion_s_face_02
+  rotate: true
+  xy: 125, 948
+  size: 121, 127
+  orig: 123, 129
+  offset: 1, 1
+  index: -1
+lion_s_face_03
+  rotate: true
+  xy: 2, 412
+  size: 209, 217
+  orig: 217, 231
+  offset: 6, 2
+  index: -1
+lion_s_hair_01
+  rotate: false
+  xy: 530, 1052
+  size: 83, 55
+  orig: 86, 58
+  offset: 1, 1
+  index: -1
+lion_s_leg_01
+  rotate: true
+  xy: 254, 942
+  size: 119, 192
+  orig: 122, 194
+  offset: 2, 1
+  index: -1
+lion_s_leg_02
+  rotate: true
+  xy: 994, 884
+  size: 128, 202
+  orig: 132, 203
+  offset: 2, 0
+  index: -1
+lion_s_leg_03
+  rotate: true
+  xy: 1128, 1014
+  size: 93, 167
+  orig: 95, 171
+  offset: 1, 2
+  index: -1
+lion_s_tail
+  rotate: false
+  xy: 229, 1071
+  size: 74, 36
+  orig: 77, 38
+  offset: 2, 1
+  index: -1
+
+mg_ganesha2.png
+size: 1246,891
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lion_b_body_01
+  rotate: true
+  xy: 634, 2
+  size: 462, 610
+  orig: 466, 613
+  offset: 1, 2
+  index: -1
+lion_b_body_02
+  rotate: true
+  xy: 2, 24
+  size: 440, 630
+  orig: 441, 631
+  offset: 1, 0
+  index: -1
+lion_b_hair_03
+  rotate: true
+  xy: 468, 466
+  size: 423, 534
+  orig: 424, 534
+  offset: 0, 0
+  index: -1
+lion_b_hair_04
+  rotate: true
+  xy: 2, 479
+  size: 410, 464
+  orig: 410, 466
+  offset: 0, 1
+  index: -1

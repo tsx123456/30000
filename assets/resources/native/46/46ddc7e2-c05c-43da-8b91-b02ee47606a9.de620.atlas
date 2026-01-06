@@ -1,0 +1,34 @@
+
+h_diya.png
+size: 1165,292
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+icon_03_01
+  rotate: true
+  xy: 2, 2
+  size: 288, 297
+  orig: 291, 299
+  offset: 2, 1
+  index: -1
+icon_03_02
+  rotate: true
+  xy: 301, 2
+  size: 288, 296
+  orig: 291, 299
+  offset: 2, 2
+  index: -1
+icon_03_03
+  rotate: false
+  xy: 599, 2
+  size: 290, 288
+  orig: 291, 303
+  offset: 1, 5
+  index: -1
+icon_03_04
+  rotate: false
+  xy: 891, 10
+  size: 272, 280
+  orig: 274, 282
+  offset: 1, 1
+  index: -1

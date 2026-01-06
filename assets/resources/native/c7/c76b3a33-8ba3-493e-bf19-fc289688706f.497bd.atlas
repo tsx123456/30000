@@ -1,0 +1,20 @@
+
+free_intro.png
+size: 1096,830
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bw_vfx_c_add_03
+  rotate: true
+  xy: 2, 2
+  size: 324, 348
+  orig: 324, 348
+  offset: 0, 0
+  index: -1
+cloud_a
+  rotate: true
+  xy: 2, 328
+  size: 500, 1092
+  orig: 500, 1092
+  offset: 0, 0
+  index: -1

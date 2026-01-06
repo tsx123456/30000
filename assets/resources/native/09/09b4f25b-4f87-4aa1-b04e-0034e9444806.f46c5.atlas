@@ -1,0 +1,27 @@
+
+god_bglight.png
+size: 421,304
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 276, 2
+  size: 70, 64
+  orig: 70, 64
+  offset: 0, 0
+  index: -1
+dianguang
+  rotate: false
+  xy: 276, 68
+  size: 143, 234
+  orig: 143, 234
+  offset: 0, 0
+  index: -1
+xg2
+  rotate: false
+  xy: 2, 16
+  size: 272, 286
+  orig: 272, 286
+  offset: 0, 0
+  index: -1

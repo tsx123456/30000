@@ -1,0 +1,104 @@
+
+eff_baobi_loop.png
+size: 930,366
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+coin_001
+  rotate: false
+  xy: 847, 25
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+coin_002
+  rotate: false
+  xy: 889, 226
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+coin_003
+  rotate: false
+  xy: 889, 148
+  size: 38, 36
+  orig: 38, 38
+  offset: 0, 2
+  index: -1
+coin_004
+  rotate: false
+  xy: 880, 73
+  size: 36, 33
+  orig: 38, 38
+  offset: 0, 3
+  index: -1
+coin_005
+  rotate: true
+  xy: 900, 330
+  size: 34, 28
+  orig: 38, 38
+  offset: 2, 5
+  index: -1
+coin_006
+  rotate: true
+  xy: 887, 34
+  size: 37, 31
+  orig: 38, 38
+  offset: 1, 3
+  index: -1
+coin_007
+  rotate: false
+  xy: 889, 186
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+coin_008
+  rotate: false
+  xy: 880, 108
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+coin_009
+  rotate: false
+  xy: 880, 108
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+flare_01_total
+  rotate: false
+  xy: 784, 161
+  size: 103, 103
+  orig: 103, 103
+  offset: 0, 0
+  index: -1
+glow_002
+  rotate: false
+  xy: 784, 65
+  size: 94, 94
+  orig: 122, 122
+  offset: 13, 13
+  index: -1
+glow_006
+  rotate: false
+  xy: 784, 266
+  size: 114, 98
+  orig: 122, 122
+  offset: 6, 12
+  index: -1
+lizi_00015_1
+  rotate: false
+  xy: 784, 2
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+total_win_a
+  rotate: true
+  xy: 2, 4
+  size: 360, 780
+  orig: 360, 780
+  offset: 0, 0
+  index: -1
